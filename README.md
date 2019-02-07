@@ -12,3 +12,5 @@ neverrrrrrrr
     <li>Motors 0, 1, 2, 3, 4 need to be listed as Talon</li>
     <li>Motors 5, & 6 need to be listed as VEX Pro </li>
   </ol>
+
+<h2>Finished </h2>
