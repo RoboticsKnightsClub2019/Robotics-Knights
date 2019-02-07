@@ -12,11 +12,16 @@ neverrrrrrrr
     <li>Motors 0, 1, 2, 3, 4 need to be listed as Talon</li>
     <li>Motors 5, & 6 need to be listed as VEX Pro </li>
     </ul>
-    <li>Update Home page of website.</li>  
+    <li>Update Home page of website.</li> 
+    <li>Write 1 blog post for our website. </li>
   </ol>
+
    <h3> Social Media Team</h3>
    <ol>
    <li> Create permission slip for club members that state their pictures and videos may be posted on our website and social medias. </li>
+     <li> Put profile image on Instagram. </li>
+     <li> Create first Instagram post. (Make sure anyone who hasn't turned in a permission slip isn't in it. </li>
+     <li> Write 1 blog post for our website. </li>
   </ol>
 
 <h2>Finished </h2>
