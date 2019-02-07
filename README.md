@@ -18,7 +18,7 @@ neverrrrrrrr
 
    <h3> Social Media Team</h3>
    <ol>
-   <li> Create permission slip for club members that state their may pictures and videos that which they are in that may be posted on our website and social medias. </li>
+   <li> Create permission slip for club members that state there may pictures and videos that which they are in that may be posted on our website and social medias. </li>
      <li> Put profile image on Instagram. </li>
      <li> Create first Instagram post. (Make sure anyone who hasn't turned in a permission slip isn't in it. </li>
      <li> Write 1 blog post for our website. </li>
