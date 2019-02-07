@@ -13,8 +13,9 @@ neverrrrrrrr
     <li>Motors 5, & 6 need to be listed as VEX Pro </li>
     </ul>
     <li>Update Home page of website.</li>  
-   
+  </ol>
    <h3> Social Media </h3>
+   <ol>
    <li> Create permission slip for club members that state their pictures and videos may be posted on our website and social medias. </li>
   </ol>
 
