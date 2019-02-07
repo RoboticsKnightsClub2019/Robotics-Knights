@@ -1,6 +1,4 @@
 # Robotics-Knights
-Pretend this is copyrighted lmao.
-neverrrrrrrr
 <!DoctypeHTML>
 <HTML>
   <h1> Change Log</h1>
