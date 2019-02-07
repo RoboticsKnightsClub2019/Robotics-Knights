@@ -4,7 +4,7 @@ neverrrrrrrr
 <!DoctypeHTML>
 <HTML>
   <h1> Change Log</h1>
-  <p>Needed to be done</p>
+  <h2>Needed to be done</h2>
   <ul> 
     <li>Change motors in code to as follows.</li>
   </ul>
