@@ -14,7 +14,7 @@ neverrrrrrrr
     </ul>
     <li>Update Home page of website.</li>  
   </ol>
-   <h3> Social Media </h3>
+   <h3> Social Media Team</h3>
    <ol>
    <li> Create permission slip for club members that state their pictures and videos may be posted on our website and social medias. </li>
   </ol>
