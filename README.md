@@ -5,6 +5,7 @@ neverrrrrrrr
 <HTML>
   <h1> Change Log</h1>
   <h2>Needed to be done</h2>
+  <h3> Coding Team </h3>
   <ol> 
     <li>Change motors in code to as follows.</li>
 <ul>
@@ -13,6 +14,8 @@ neverrrrrrrr
     </ul>
     <li>Update Home page of website.</li>  
    
+   <h3> Social Media </h3>
+   <li> Create permission slip for club members that state their pictures and videos may be posted on our website and social medias. </li>
   </ol>
 
 <h2>Finished </h2>
