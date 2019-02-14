@@ -21,7 +21,6 @@
     <li>Motors 0, 1, 2, 3, 4 need to be listed as Talon</li>
     <li>Motors 5, & 6 need to be listed as VEX Pro </li>
     </ul>
-    <li>Update Home page of website.</li> 
     <li>Write 1 blog post for our website. </li>
   </ol>
   
